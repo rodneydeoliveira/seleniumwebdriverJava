@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/seleniumwebdriverJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/test/java/testesSeleniumJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webdriverJava" vcs="Git" />
+  </component>
+</project>
